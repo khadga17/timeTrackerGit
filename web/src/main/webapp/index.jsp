@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple Example Webpage</title>
+    <title>Git Test</title>
 </head>
 <body>
-  <h1>Super WEb Apps Web Page</h1>
+  <h1>Auotomation Build deploy testing</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    Woohoooo!! It worked.
   </p>
 </body>
 </html>
